@@ -3,6 +3,7 @@
 To design, simulate and analyse a single phase Inverter using MATLAB Simulink.
 ## APPARATUS REQUIRED
 •	MATLAB
+
 ## PROCEDURE
 1.	Open MATLAB and click on the icon for SIMULINK as shown below
  <img width="522" height="376" alt="image" src="https://github.com/user-attachments/assets/64e30b59-d51a-40c6-978c-09191f5b0a7f" />
